@@ -35,6 +35,7 @@ public class SearchUnion {
         String fieldName = "content";
 
         Scanner scanner = new Scanner(System.in);
+
         while(scanner.hasNext())
         {
             queryString = scanner.next();
